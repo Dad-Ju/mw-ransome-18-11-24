@@ -86,7 +86,7 @@ All payload files are attached in the encrypted `.7z` (password: "plzsubscribe")
 I added a screenshot of our XDR and why it got remediated and killed (Thread Indicators) as well.  
 Without its help, we probably would have run into a ransomware attack!
 
-# Sentienl One Output
+# Sentinel One Output
 
 ```
 Threat Info:
