@@ -88,6 +88,7 @@ Without its help, we probably would have run into a ransomware attack!
 
 # Sentienl One Output
 
+```
 Threat Info:
 Name: wscript.exe (CLI 1242)
 URL: _redacted_
@@ -121,3 +122,4 @@ IP v4 Address: _redacted_
 IP v6 Address: _redacted_
 Console Visible IP Address: _redacted_
 Subscription Time: Nov 15, 2024 13:13:32
+```
